@@ -25,3 +25,6 @@
 [submodule "PostgresEssentials"]
 	path = PostgresEssentials
 	url = https://github.com/michael-steinert-repository/PostgresEssentials.git
+[submodule "LearningJava8"]
+	path = LearningJava8
+	url = https://github.com/michael-steinert-repository/LearningJava8.git
