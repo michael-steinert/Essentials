@@ -10,3 +10,6 @@
 [submodule "KubernetesEssentials"]
 	path = KubernetesEssentials
 	url = https://github.com/michael-steinert-repository/KubernetesEssentials.git
+[submodule "DockerEssentials"]
+	path = DockerEssentials
+	url = https://github.com/michael-steinert-repository/DockerEssentials.git
