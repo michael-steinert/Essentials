@@ -4,3 +4,6 @@
 [submodule "TerraformEssentials"]
 	path = TerraformEssentials
 	url = https://github.com/michael-steinert-repository/TerraformEssentials.git
+[submodule "PrometheusEssentials"]
+	path = PrometheusEssentials
+	url = https://github.com/michael-steinert-repository/PrometheusEssentials.git
