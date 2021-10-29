@@ -31,3 +31,6 @@
 [submodule "PythonEssentials"]
 	path = PythonEssentials
 	url = https://github.com/michael-steinert-repository/PythonEssentials.git
+[submodule "JavaEssentials"]
+	path = JavaEssentials
+	url = https://github.com/michael-steinert-repository/JavaEssentials.git
