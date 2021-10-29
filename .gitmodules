@@ -22,3 +22,6 @@
 [submodule "MongoDBEssentials"]
 	path = MongoDBEssentials
 	url = https://github.com/michael-steinert-repository/MongoDBEssentials.git
+[submodule "PostgresEssentials"]
+	path = PostgresEssentials
+	url = https://github.com/michael-steinert-repository/PostgresEssentials.git
