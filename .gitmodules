@@ -19,3 +19,6 @@
 [submodule "TypeScriptEssentials"]
 	path = TypeScriptEssentials
 	url = https://github.com/michael-steinert-repository/TypeScriptEssentials.git
+[submodule "MongoDBEssentials"]
+	path = MongoDBEssentials
+	url = https://github.com/michael-steinert-repository/MongoDBEssentials.git
