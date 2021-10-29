@@ -1,3 +1,6 @@
 [submodule "AnsibleEssentials"]
 	path = AnsibleEssentials
 	url = https://github.com/michael-steinert-repository/AnsibleEssentials.git
+[submodule "TerraformEssentials"]
+	path = TerraformEssentials
+	url = https://github.com/michael-steinert-repository/TerraformEssentials.git
