@@ -28,3 +28,6 @@
 [submodule "LearningJava8"]
 	path = LearningJava8
 	url = https://github.com/michael-steinert-repository/LearningJava8.git
+[submodule "PythonEssentials"]
+	path = PythonEssentials
+	url = https://github.com/michael-steinert-repository/PythonEssentials.git
