@@ -37,3 +37,6 @@
 [submodule "JavaFunctionalProgramming"]
 	path = JavaFunctionalProgramming
 	url = https://github.com/michael-steinert-repository/JavaFunctionalProgramming.git
+[submodule "JavaStreamAPI"]
+	path = JavaStreamAPI
+	url = https://github.com/michael-steinert-repository/JavaStreamAPI.git
