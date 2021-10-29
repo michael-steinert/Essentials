@@ -13,3 +13,6 @@
 [submodule "DockerEssentials"]
 	path = DockerEssentials
 	url = https://github.com/michael-steinert-repository/DockerEssentials.git
+[submodule "Java8StreamsExceptionHandler"]
+	path = Java8StreamsExceptionHandler
+	url = https://github.com/michael-steinert-repository/Java8StreamsExceptionHandler.git
