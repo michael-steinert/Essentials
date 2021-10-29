@@ -40,3 +40,6 @@
 [submodule "JavaStreamAPI"]
 	path = JavaStreamAPI
 	url = https://github.com/michael-steinert-repository/JavaStreamAPI.git
+[submodule "DatabaseDesignAndImplementation"]
+	path = DatabaseDesignAndImplementation
+	url = https://github.com/michael-steinert-repository/DatabaseDesignAndImplementation.git
