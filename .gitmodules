@@ -34,3 +34,6 @@
 [submodule "JavaEssentials"]
 	path = JavaEssentials
 	url = https://github.com/michael-steinert-repository/JavaEssentials.git
+[submodule "JavaFunctionalProgramming"]
+	path = JavaFunctionalProgramming
+	url = https://github.com/michael-steinert-repository/JavaFunctionalProgramming.git
