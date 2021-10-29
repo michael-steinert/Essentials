@@ -16,3 +16,6 @@
 [submodule "Java8StreamsExceptionHandler"]
 	path = Java8StreamsExceptionHandler
 	url = https://github.com/michael-steinert-repository/Java8StreamsExceptionHandler.git
+[submodule "TypeScriptEssentials"]
+	path = TypeScriptEssentials
+	url = https://github.com/michael-steinert-repository/TypeScriptEssentials.git
