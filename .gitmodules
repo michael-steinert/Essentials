@@ -43,3 +43,6 @@
 [submodule "DatabaseDesignAndImplementation"]
 	path = DatabaseDesignAndImplementation
 	url = https://github.com/michael-steinert-repository/DatabaseDesignAndImplementation.git
+[submodule "JavaScriptEssentials"]
+	path = JavaScriptEssentials
+	url = https://github.com/michael-steinert-repository/JavaScriptEssentials.git
