@@ -46,3 +46,6 @@
 [submodule "JavaScriptEssentials"]
 	path = JavaScriptEssentials
 	url = https://github.com/michael-steinert-repository/JavaScriptEssentials.git
+[submodule "KotlinEssentials"]
+	path = KotlinEssentials
+	url = https://github.com/michael-steinert-repository/KotlinEssentials.git
