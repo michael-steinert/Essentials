@@ -52,3 +52,6 @@
 [submodule "JavaScriptTestingEssentials"]
 	path = JavaScriptTestingEssentials
 	url = https://github.com/michael-steinert-repository/JavaScriptTestingEssentials.git
+[submodule "NextJSEssentials"]
+	path = NextJSEssentials
+	url = https://github.com/michael-steinert/NextJSEssentials.git
