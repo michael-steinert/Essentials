@@ -55,3 +55,6 @@
 [submodule "NextJSEssentials"]
 	path = NextJSEssentials
 	url = https://github.com/michael-steinert/NextJSEssentials.git
+[submodule "RustCalculatorImageCombinerEssentials"]
+	path = RustCalculatorImageCombinerEssentials
+	url = https://github.com/michael-steinert/RustCalculatorImageCombinerEssentials.git
