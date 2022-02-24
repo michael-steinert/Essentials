@@ -58,3 +58,6 @@
 [submodule "RustCalculatorImageCombinerEssentials"]
 	path = RustCalculatorImageCombinerEssentials
 	url = https://github.com/michael-steinert/RustCalculatorImageCombinerEssentials.git
+[submodule "GraphQLEssentials"]
+	path = GraphQLEssentials
+	url = https://github.com/michael-steinert/GraphQLEssentials.git
