@@ -61,3 +61,6 @@
 [submodule "GraphQLEssentials"]
 	path = GraphQLEssentials
 	url = https://github.com/michael-steinert/GraphQLEssentials.git
+[submodule "RustEssentials"]
+	path = RustEssentials
+	url = https://github.com/michael-steinert/RustEssentials.git
