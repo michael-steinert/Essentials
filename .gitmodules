@@ -64,3 +64,6 @@
 [submodule "RustEssentials"]
 	path = RustEssentials
 	url = https://github.com/michael-steinert/RustEssentials.git
+[submodule "CypressEssentials"]
+	path = CypressEssentials
+	url = https://github.com/michael-steinert/CypressEssentials.git
