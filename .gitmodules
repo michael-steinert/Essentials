@@ -67,3 +67,6 @@
 [submodule "CypressEssentials"]
 	path = CypressEssentials
 	url = https://github.com/michael-steinert/CypressEssentials.git
+[submodule "GitHubActionsEssentials"]
+	path = GitHubActionsEssentials
+	url = https://github.com/michael-steinert/GitHubActionsEssentials.git
