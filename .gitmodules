@@ -76,3 +76,6 @@
 [submodule "SpringBootAngularRxJsEssentials"]
 	path = SpringBootAngularRxJsEssentials
 	url = https://github.com/michael-steinert/SpringBootAngularRxJsEssentials
+[submodule "AngularNgXsEssentials"]
+	path = AngularNgXsEssentials
+	url = https://github.com/michael-steinert/AngularNgXsEssentials
