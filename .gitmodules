@@ -79,3 +79,6 @@
 [submodule "AngularNgXsEssentials"]
 	path = AngularNgXsEssentials
 	url = https://github.com/michael-steinert/AngularNgXsEssentials
+[submodule "RxJsEssentials"]
+	path = RxJsEssentials
+	url = https://github.com/michael-steinert/RxJsEssentials
